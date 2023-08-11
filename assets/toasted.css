@@ -1,0 +1,48 @@
+/** Atualização do toast */
+.toasted-container.top-center {
+  top: 5px !important;
+  font-family: 'Roboto' !important;
+  line-height: 1.4 !important;
+}
+
+.toasted .primary,
+.toasted.toasted-primary {
+  font-weight: 400 !important;
+  padding: 10px 20px !important;
+  font-size: 1em !important;
+  min-height: 55px !important;
+  line-height: 1.2em !important;
+}
+
+.toasted .primary.info,
+.toasted.toasted-primary.info {
+  background-color: #35c2d7 !important;
+}
+
+.toasted-container .toasted .action {
+  text-decoration: none !important;
+  font-size: 1em !important;
+  padding-left: 8px !important;
+  padding-top: 0px !important;
+  padding-right: 0px !important;
+  padding-bottom: 0px !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.03em !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  margin: 0px !important;
+}
+
+.toasted .primary .action,
+.toasted.toasted-primary .action {
+  color: white !important;
+}
+
+.toasted-container .toasted .action.icon .fa,
+.toasted-container .toasted .action.icon .material-icons,
+.toasted-container .toasted .action.icon .mdi {
+  margin-right: 0;
+  margin-left: 8px !important;
+  margin-top: 2px !important;
+  font-size: large !important;
+}
