@@ -13,8 +13,8 @@ export default {
     htmlAttrs: {
       lang: 'pt_BR',
     },
-    titleTemplate: '%s - Vicente 5 anos',
-    title: 'Vicente 5 anos',
+    titleTemplate: '%s - Vicente 6 anos',
+    title: 'Vicente 6 anos',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -28,7 +28,7 @@ export default {
         property: 'og:description',
         content: 'Você está convidado para um dia cheio de aventuras em meu aniversário!',
       },
-      { hid: 'og:title', name: 'og:title', content: 'Vicente 5 anos' },
+      { hid: 'og:title', name: 'og:title', content: 'Vicente 6 anos' },
       { hid: 'og:type', name: 'og:type', content: 'website' },
       {
         hid: 'og:url',
