@@ -38,14 +38,14 @@ export default {
       {
         hid: 'og:image',
         name: 'og:image',
-        content: 'https://vicentecarlosmeira.com.br/icon.jpg',
+        content: 'https://vicentecarlosmeira.com.br/vi-sonic-2023.jpeg',
       },
     ],
     link: [
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: 'https://vicentecarlosmeira.com.br/icon.jpg',
+        href: 'https://vicentecarlosmeira.com.br/vi-sonic-2023.jpeg',
       },
     ],
   },
