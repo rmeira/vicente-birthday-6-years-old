@@ -38,14 +38,14 @@ export default {
       {
         hid: 'og:image',
         name: 'og:image',
-        content: 'https://vicentecarlosmeira.com.br/icon.jpeg',
+        content: 'https://vicentecarlosmeira.com.br/icon.jpg',
       },
     ],
     link: [
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: 'https://vicentecarlosmeira.com.br/icon.jpeg',
+        href: 'https://vicentecarlosmeira.com.br/icon.jpg',
       },
     ],
   },
